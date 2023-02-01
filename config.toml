@@ -1,4 +1,4 @@
-baseURL = "http://aiirobyte.github.io/"
+baseURL = "https://aiirobyte.github.io/"
 title = "Aiirobyte's Blog"
 theme = "hugo-paper"
 enableRobotsTXT = true      # generate robots.txt
