@@ -1,8 +1,8 @@
 baseURL = "http://aiirobyte.github.io/"
-languageCode = "en-us"
 title = "Aiirobyte's Blog"
 theme = "hugo-theme-tokiwa"
 enableEmoji = true
+mainSections = ["blog"]
 
 [params]
 title = "Aiirobyte's Blog"
