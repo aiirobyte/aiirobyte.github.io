@@ -1,0 +1,10 @@
+baseURL = "http://aiirobyte.github.io/"
+languageCode = "en-us"
+title = "Aiirobyte's Blog"
+theme = "hugo-theme-tokiwa"
+enableEmoji = true
+
+[params]
+title = "Aiirobyte's Blog"
+author = "Aiirobyte"
+description = "Blog by Aiirobyte"
