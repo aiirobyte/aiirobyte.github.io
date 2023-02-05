@@ -1,5 +1,5 @@
 ---
-title: "周报 #1 - 送别 "
+title: "周报 #1 - 送别"
 date: 2023-02-01T16:05:56+08:00
 draft: false
 tags: ["Review"]
