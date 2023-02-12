@@ -1,5 +1,5 @@
 baseURL = "https://aiirobyte.github.io/"
-title = "Aiirobyte's Blog"
+title = "永恒与一日"
 theme = "hugo-paper"
 enableRobotsTXT = true      # generate robots.txt
 enableEmoji = true           # use emoji support
@@ -14,9 +14,6 @@ mainSections = ['blog', 'review']
 color = "linen"
 github = "aiirobyte"
 twitter = "aiirobyte"
-
-[pages]
-
 
 [menu]
   [[menu.main]]
