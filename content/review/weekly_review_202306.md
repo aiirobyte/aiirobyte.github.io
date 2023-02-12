@@ -3,7 +3,6 @@ title: "周报 #3|2306 - 出发"
 date: 2023-02-12T16:03:50+08:00
 draft: false
 tags: ["Review"]
-categories: []
 authors:
 - "aiirobyte"
 ---

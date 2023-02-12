@@ -3,7 +3,6 @@ title: "周报 #1|2304 - 送别"
 date: 2023-02-01T16:05:56+08:00
 draft: false
 tags: ["Review"]
-categories: []
 authors:
 - "aiirobyte"
 ---
