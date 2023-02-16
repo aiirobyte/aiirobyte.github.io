@@ -1,10 +1,10 @@
 baseURL = "https://aiirobyte.github.io/"
-title = "永恒与一日"
+title = "雾中之语"
 theme = "hugo-paper"
-enableRobotsTXT = true      # generate robots.txt
-enableEmoji = true           # use emoji support
-hasCJKLanguage = true        # detect CJK languages for word count etc.
-preserveTaxonomyNames = true # do not make tag names lowercase
+enableRobotsTXT = true          # generate robots.txt
+enableEmoji = true              # use emoji support
+hasCJKLanguage = true           # detect CJK languages for word count etc.
+preserveTaxonomyNames = true    # do not make tag names lowercase
 page_view_conter = true
 
 [params]
@@ -12,21 +12,30 @@ postDateFormat = "2006-1-2" # override custom date format posts.
 mainSections = ['blog', 'review']
 
 color = "linen"
+monoDarkIcon = true
 github = "aiirobyte"
 twitter = "aiirobyte"
 
+avatar = 'https://raw.githubusercontent.com/aiirobyte/aiirobyte.github.io/main/resources/avatar.jpg'
+name = 'Aiirobyte'
+bio = '雾中之人'
+
 [menu]
   [[menu.main]]
-    name = "Blog"
+    name = "文章"
     weight = 1
     identifier = "blog"
     url = "/blog/"
   [[menu.main]]
-    name = "Review"
+    name = "自省"
     weight = 1
     identifier = "review"
     url = "/review/"
   [[menu.main]]
-    name = "Tags"
+    name = "标签"
     url = "/tags/"
     weight = 2
+  [[menu.main]]
+    name = "关于"
+    identifier = "about"
+    url = "/about/"

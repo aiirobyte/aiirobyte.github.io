@@ -1,7 +1,8 @@
 ---
 title: "About"
 date: 2023-02-01T17:30:30+08:00
-menu: "main"
 ---
 
-A college student learning Industrial design, but have strong interst on software development.
+一片浓雾中，有人在雾中摸索，并发出求助的呼喊。这雾中之人能看到的只有四周朦胧的光亮，看不清自己，也看不清前方。
+
+这雾中之人绝望的呼喊声是微弱的，但这发出的声音就是他绝望中唯一的希望。因为从另一个人的眼睛里，他才能看清这迷雾、看清自己的模样。
