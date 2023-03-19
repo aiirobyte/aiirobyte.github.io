@@ -1,5 +1,5 @@
 ---
-title: "周报 #N|{{ now.Format "06" }}NN - title"
+title: "周报 #N|{{ now.Format "06" }}NN - 无题"
 date: {{ .Date }}
 draft: false
 tags: ["Review"]
